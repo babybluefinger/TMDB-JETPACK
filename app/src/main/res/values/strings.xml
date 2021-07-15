@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Star TV</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_download">Download</string>
+    <string name="profile">profile</string>
+    <string name="new_release">New Release</string>
+    <string name="top_trending">Top Trending</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="tab_home_1">TV Shows</string>
+    <string name="tab_home_2">Movies</string>
+    <string name="vip">VIP</string>
+    <string name="free">Free</string>
+    <string name="new_button">New</string>
+    <string name="schedule">Schedule</string>
+    <string name="search_here">Search here</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="new_shows">New Series</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="director">Director</string>
+    <string name="starring">Starring</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">favorite</string>
+    <string name="list_favorite_is_empty">List favorite is empty</string>
+    <string name="add_favorite">add favorite</string>
+    <string name="ok">OK</string>
+    <string name="undo">Cancel deleting item?</string>
+</resources>
